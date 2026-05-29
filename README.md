@@ -30,7 +30,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 * Room Type Analysis
 * Market Lifecycle Analysis
 
- ##🔍 Key Insights
+ ## 🔍 Key Insights
 
 * Airbnb experienced rapid growth between **2010–2015**
 * **Entire Place** listings dominated the platform
@@ -74,7 +74,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ---
 
-##🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 * Power BI
 * Power Query
