@@ -1,4 +1,4 @@
-# 🌍 Global Airbnb Performance Dashboard
+## 🌍 Global Airbnb Performance Dashboard
 
 This project is a **3-page interactive Power BI dashboard** built to analyze **Airbnb market performance, customer satisfaction, pricing behavior, and seasonal review trends** across major cities.
 
@@ -6,7 +6,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 * Analyze Airbnb listing growth and market trends
 * Compare market share across cities
@@ -17,11 +17,11 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ---
 
-# 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
 ## 1️⃣ Global Airbnb Performance Overview
 
-### This page provides:
+## This page provides:
 
 * Total Listings
 * Cities Covered
@@ -30,7 +30,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 * Room Type Analysis
 * Market Lifecycle Analysis
 
-### 🔍 Key Insights
+ ##🔍 Key Insights
 
 * Airbnb experienced rapid growth between **2010–2015**
 * **Entire Place** listings dominated the platform
@@ -41,7 +41,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ## 2️⃣ Market Share & Customer Satisfaction Analysis
 
-### This page focuses on:
+## This page focuses on:
 
 * City-wise market share
 * Superhost vs Non-superhost analysis
@@ -49,7 +49,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 * Customer ratings by city
 * Review engagement analysis
 
-### 🔍 Key Insights
+## 🔍 Key Insights
 
 * **Paris, New York, and Rome** dominate Airbnb market share
 * **Mexico City and Rio** achieved the highest customer ratings
@@ -60,13 +60,13 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ## 3️⃣ Seasonal Review & Travel Trend Analysis
 
-### This page analyzes:
+## This page analyzes:
 
 * Monthly review contribution by city
 * Seasonal customer engagement
 * Review distribution trends
 
-### 🔍 Key Insights
+## 🔍 Key Insights
 
 * **Paris and Rome** dominated review activity during summer months
 * **New York** showed stronger engagement during the holiday season
@@ -74,7 +74,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ---
 
-# 🛠️ Tools & Technologies Used
+##🛠️ Tools & Technologies Used
 
 * Power BI
 * Power Query
@@ -84,7 +84,7 @@ The dashboard transforms raw Airbnb listing and review data into **business-driv
 
 ---
 
-# 📈 DAX Measures Used
+## 📈 DAX Measures Used
 
 Some important measures created in this project:
 
@@ -100,7 +100,7 @@ Some important measures created in this project:
 
 ---
 
-# 💡 Business Impact
+## 💡 Business Impact
 
 This dashboard helps:
 
@@ -112,7 +112,7 @@ This dashboard helps:
 
 ---
 
-# 📂 Files Included
+## 📂 Files Included
 
 * Power BI Dashboard (.pbix)
 * Dataset files
@@ -120,12 +120,6 @@ This dashboard helps:
 * README.md
 
 ---
-
-# 👩‍💻 Author
-
-**Shital**
-MCA Graduate | Aspiring Data Analyst
-Skilled in Power BI, SQL, Excel, and Data Visualization
 
 Dataset files
 Dashboard screenshots
